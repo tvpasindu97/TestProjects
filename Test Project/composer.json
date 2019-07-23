@@ -1,0 +1,9 @@
+{
+    "name": "pasindu/testproject",
+    "type": "project",
+    "description": "My first Composer project",
+    "minimum-stability": "dev",
+    "require": {
+        "pasindu97/hello-world": "dev-master"
+    }
+}

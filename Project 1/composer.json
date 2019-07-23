@@ -1,0 +1,9 @@
+{
+    "name": "pasindu/testing",
+    "description": "testproject",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "pasindu97/hello-world": "dev-master"
+    }
+}
