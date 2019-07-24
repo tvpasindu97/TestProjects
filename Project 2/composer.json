@@ -1,0 +1,10 @@
+{
+    "name": "sdvsb/adadg",
+    "description": "davdbsdbsdb",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "pasindu97/hello-world": "dev-master",
+        "pasindu97/maths": "dev-master"
+    }
+}
